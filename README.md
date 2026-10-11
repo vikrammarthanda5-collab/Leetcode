@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
