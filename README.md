@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0001-two-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
