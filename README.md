@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
