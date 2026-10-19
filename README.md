@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Enumeration
@@ -65,11 +66,13 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0383-ransom-note) |
 ## Number Theory
 |  |
 | ------- |
