@@ -13,6 +13,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2788-split-strings-by-separator](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -76,6 +77,7 @@
 | [0058-length-of-last-word](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2788-split-strings-by-separator](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2788-split-strings-by-separator) |
 ## Number Theory
 |  |
 | ------- |
