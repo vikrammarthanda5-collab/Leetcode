@@ -15,6 +15,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
@@ -128,4 +130,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
