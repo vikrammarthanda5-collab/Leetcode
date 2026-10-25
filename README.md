@@ -12,6 +12,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2788-split-strings-by-separator) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -83,6 +84,7 @@
 | [0383-ransom-note](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2788-split-strings-by-separator](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2788-split-strings-by-separator) |
 ## Number Theory
 |  |
