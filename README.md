@@ -10,6 +10,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1833-maximum-ice-cream-bars](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -60,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@
 | [0414-third-maximum-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -76,6 +79,7 @@
 | [0383-ransom-note](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
