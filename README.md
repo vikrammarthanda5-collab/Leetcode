@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0509-fibonacci-number) |
@@ -53,6 +54,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
