@@ -11,6 +11,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1929-concatenation-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -150,6 +151,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
