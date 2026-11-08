@@ -127,6 +127,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -164,5 +165,6 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
