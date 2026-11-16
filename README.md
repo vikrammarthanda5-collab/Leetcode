@@ -31,6 +31,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -49,6 +50,7 @@
 | [0070-climbing-stairs](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0509-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -194,4 +196,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
