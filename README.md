@@ -81,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -141,6 +142,7 @@
 | [0061-rotate-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -186,6 +188,7 @@
 | [0061-rotate-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -205,4 +208,12 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
