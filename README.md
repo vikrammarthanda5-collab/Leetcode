@@ -54,6 +54,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2235-add-two-integers) |
+| [2485-find-the-pivot-integer](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
