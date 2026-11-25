@@ -16,6 +16,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -111,6 +112,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2788-split-strings-by-separator](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2788-split-strings-by-separator) |
 ## Number Theory
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2974-minimum-number-game) |
 ## Linked List
 |  |
