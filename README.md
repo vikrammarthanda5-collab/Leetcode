@@ -51,6 +51,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -71,6 +72,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
