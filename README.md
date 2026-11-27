@@ -225,6 +225,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -245,5 +246,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
