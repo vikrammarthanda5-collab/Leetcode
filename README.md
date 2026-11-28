@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0137-single-number-ii) |
 | [0414-third-maximum-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -246,6 +247,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vikrammarthanda5-collab/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
